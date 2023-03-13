@@ -2,7 +2,9 @@
 description: In diesem Dokument geht es um das Redesign für den Produkt.
 ---
 
-# Redesign in 2022
+# Redesign
+
+## Jetzt ist GitBook -> TestBranch
 
 ## Herausforderung
 
@@ -10,7 +12,7 @@ Der aktuelle Produkt ist eine Web-basierte Anwendung. Der Plan ist, dass die Anw
 
 #### Was geht vor? Alisa sitzt bei mir
 
-Die Anwendung heute ist eine _"Waterflow"_ Struktur. Das heisst, die Funktionen sind eine nach einer andere addiert (wie Pinterest oder Youtube). Leider ist diese Struktur für unseren Service eher nachteilig, weil die wichtige Funktionen, die wir bis jetzt haben, durch diese Darstellung unübersichtlich sind.&#x20;
+Die Anwendung heute ist eine _"Waterflow"_ Struktur. Das heisst, die Funktionen sind eine nach einer andere addiert (wie Pinterest oder Youtube). Leider ist diese Struktur für unseren Service eher nachteilig, weil die wichtige Funktionen, die wir bis jetzt haben, durch diese Darstellung unübersichtlich sind.
 
 Nutzer geben meiste Zeit die Aufmerksamkeit, worauf sie zuerst sehen können. Wenn die Inhalte in der Anwendung nicht gleichwertig betrachtet sind, ein wichtigerer Inhalt wird durch "Waterflow" leicht übergegangen.
 
@@ -22,11 +24,11 @@ Mit der Entwicklung der umfangreichen Funktionen ist diese "_Waterflow_" Struktu
 
 ## Dashboard Design
 
-In dem Projekt haben wir im Team eine exterene Unterstüzung bekommen, um uns zu hilfen, den Progress von Redesign zu beschleunigen.&#x20;
+In dem Projekt haben wir im Team eine exterene Unterstüzung bekommen, um uns zu hilfen, den Progress von Redesign zu beschleunigen.
 
 Für die erste Erscheinungsbild haben wir folgende Aufgabe erledigt:
 
-1. Workshop&#x20;
+1. Workshop
 2. Wireframe
 3. The first dashboard design in 2 Varianten
 4. Discussions and Compromise im Team
@@ -36,13 +38,13 @@ Für die erste Erscheinungsbild haben wir folgende Aufgabe erledigt:
 
 Die Epics sind akutell zu groß geworden, hier ist z. B. der Epic Optimierung UI.
 
-Ich hätte gerne die Optimierung UI in klein teilen.&#x20;
+Ich hätte gerne die Optimierung UI in klein teilen.
 
 "Definition of done" ist nicht wirklich aussagekräftig. Ein Ticket der in den Done geht soll zumindest nicht mehr viel überarbeitet werden müsste. In der Praxis finde ich nicht so. Landingpage hat auf jeden Fall noch einige Design Aufgaben, die nachher bearbeitet werden. Meiste nicht erklärende Aufgaben sind:
 
-1. Wordings sind nicht final.&#x20;
-2. Hero Images sind nicht final.&#x20;
+1. Wordings sind nicht final.
+2. Hero Images sind nicht final.
 
-In diesem Sinne sollte entweder der Name des Ticket ändern, oder deutlich daraufhinweisen, was gibt es noch zu tun. Die Folgestories sollen so detailiert wie möglich dokumentieren.&#x20;
+In diesem Sinne sollte entweder der Name des Ticket ändern, oder deutlich daraufhinweisen, was gibt es noch zu tun. Die Folgestories sollen so detailiert wie möglich dokumentieren.
 
-Ich möchte nur etwas in Test_Branch ändern und es kann auch zum GitBook synn werden.
+Ich möchte nur etwas in Test\_Branch ändern und es kann auch zum GitBook synn werden.
