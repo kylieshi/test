@@ -14,6 +14,8 @@ Die Anwendung heute ist eine _"Waterflow"_ Struktur. Das heisst, die Funktionen 
 
 Nutzer geben meiste Zeit die Aufmerksamkeit, worauf sie zuerst sehen können. Wenn die Inhalte in der Anwendung nicht gleichwertig betrachtet sind, ein wichtigerer Inhalt wird durch "Waterflow" leicht übergegangen.
 
+Nutzer geben meiste Zeit die Aufmerksamkeit, worauf sie zuerst sehen können. Wenn die Inhalte in der Anwendung nicht gleichwertig betrachtet sind, ein wichtigerer Inhalt wird durch "Waterflow" leicht übergegangen.
+
 #### Technische Beschränkung
 
 Mit der Entwicklung der umfangreichen Funktionen ist diese "_Waterflow_" Struktur von heute nicht mehr in der Lage, eine mobile-freundliche User Experience für Nutzer anzubieten. Auch für unseren Business & Service ist es schwierig, die erwartete Conversion Rate zu erreichen.
