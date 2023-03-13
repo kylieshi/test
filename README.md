@@ -1,10 +1,15 @@
 ---
 description: In diesem Dokument geht es um das Redesign für den Produkt.
+coverY: 0
 ---
 
 # Redesign
 
 ## Jetzt ist GitBook -> TestBranch
+
+Scribe: [https://scribehow.com/shared/Guide\_to\_Accessing\_Bonitatsmanager\_for\_Bonitats\_Optimization\_\_0pAd1N1HT4GVT8wlenH9Aw](https://scribehow.com/shared/Guide\_to\_Accessing\_Bonitatsmanager\_for\_Bonitats\_Optimization\_\_0pAd1N1HT4GVT8wlenH9Aw)
+
+
 
 ## Herausforderung
 
