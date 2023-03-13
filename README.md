@@ -2,7 +2,7 @@
 description: In diesem Dokument geht es um das Redesign für den Produkt.
 ---
 
-# Redesign
+# Redesign in 2022
 
 ## Herausforderung
 
