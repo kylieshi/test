@@ -8,7 +8,7 @@ description: In diesem Dokument geht es um das Redesign für den Produkt.
 
 Der aktuelle Produkt ist eine Web-basierte Anwendung. Der Plan ist, dass die Anwendung von Progressive Web-App umstellen soll. Auf beide Mobile und Desktop soll die Anwendung einwandfrei funktionieren.
 
-#### Was geht vor?
+#### Was geht vor? Alisa sitzt bei mir
 
 Die Anwendung heute ist eine _"Waterflow"_ Struktur. Das heisst, die Funktionen sind eine nach einer andere addiert (wie Pinterest oder Youtube). Leider ist diese Struktur für unseren Service eher nachteilig, weil die wichtige Funktionen, die wir bis jetzt haben, durch diese Darstellung unübersichtlich sind.&#x20;
 
