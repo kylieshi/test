@@ -44,3 +44,5 @@ Ich hätte gerne die Optimierung UI in klein teilen.&#x20;
 2. Hero Images sind nicht final.&#x20;
 
 In diesem Sinne sollte entweder der Name des Ticket ändern, oder deutlich daraufhinweisen, was gibt es noch zu tun. Die Folgestories sollen so detailiert wie möglich dokumentieren.&#x20;
+
+Ich möchte nur etwas in Test_Branch ändern und es kann auch zum GitBook synn werden.
