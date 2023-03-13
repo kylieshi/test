@@ -44,11 +44,3 @@ Ich hätte gerne die Optimierung UI in klein teilen.&#x20;
 2. Hero Images sind nicht final.&#x20;
 
 In diesem Sinne sollte entweder der Name des Ticket ändern, oder deutlich daraufhinweisen, was gibt es noch zu tun. Die Folgestories sollen so detailiert wie möglich dokumentieren.&#x20;
-
-
-
-
-
-## Moving on
-
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
