@@ -5,11 +5,9 @@ coverY: 0
 
 # Redesign
 
-## Jetzt ist GitBook -> TestBranch
+## Bank Administrator
 
-Scribe: [https://scribehow.com/shared/Guide\_to\_Accessing\_Bonitatsmanager\_for\_Bonitats\_Optimization\_\_0pAd1N1HT4GVT8wlenH9Aw](https://scribehow.com/shared/Guide\_to\_Accessing\_Bonitatsmanager\_for\_Bonitats\_Optimization\_\_0pAd1N1HT4GVT8wlenH9Aw)
-
-
+<figure><img src=".gitbook/assets/Zuweisen.png" alt=""><figcaption></figcaption></figure>
 
 ## Herausforderung
 
