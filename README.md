@@ -5,7 +5,7 @@ coverY: 0
 
 # Redesign
 
-## eeeeeeeee 11:46 Bank Administrator
+## Mewow eeeeeeeee 12:45 Bank Administrator
 
 <figure><img src=".gitbook/assets/Zuweisen.png" alt=""><figcaption></figcaption></figure>
 
